@@ -5,5 +5,7 @@ body{
 .firstHeading{
     color:rgb(111, 10, 10);
     font-size:20px;
+    font-weight:bold;
+    display:inline-block;
 
 }
